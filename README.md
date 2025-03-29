@@ -10,10 +10,10 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
   # Manually:
     # Versions 1.0.0 and 1.1.1
       * run "python setup.py sdist bdist_wheel"
-    # Versions from 1.2.0
+    # Versions from 1.1.2
       * run "python -m build"
 # Future Additions
-* add more formats
+* add more formats (.webp, .mov, .avi, .wmv, .mkv)
 * Simply update for later Python versions
 * (maybe) compile for older versions
 # Downloads
