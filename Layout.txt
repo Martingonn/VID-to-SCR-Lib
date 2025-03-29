@@ -1,0 +1,8 @@
+/YourPackage
+|-- setup.py
+|-- README.md
+|-- LICENSE.txt
+|-- MANIFEST.in
+|-- /your_package
+    |-- __init__.py
+    |-- your_module.py
