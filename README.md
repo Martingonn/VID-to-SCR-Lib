@@ -8,7 +8,7 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 # How to install
 * Simply install it via "pip install VidToScr".
   # Manually:
-  * run ** python setup.py sdist bdist_wheel **
+  * run "python setup.py sdist bdist_wheel"
 # Future Additions
 * add more formats
 * Simply update for later Python versions
