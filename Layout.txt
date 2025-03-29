@@ -1,5 +1,5 @@
 /YourPackage
-|-- setup.py
+|-- pyproject.toml
 |-- README.md
 |-- LICENSE.txt
 |-- MANIFEST.in
