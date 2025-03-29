@@ -1,4 +1,5 @@
 /YourPackage
+|--example.py
 |-- pyproject.toml
 |-- README.md
 |-- LICENSE.txt
