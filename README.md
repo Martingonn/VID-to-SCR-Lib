@@ -6,7 +6,7 @@ Development was started on March 28th, 2025, by Marcin Jacek Chmiel.
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 # How to install
-* Simply install it via "pip install vidToScr".
+* Simply install it via "pip install VidToScr".
   # Manually:
   * run setup.py 
 # Future Additions
