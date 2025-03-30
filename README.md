@@ -10,6 +10,7 @@ To use scripts with the library, make sure you have ffmpeg installed. If not, in
 # How to install
 * Simply install it via "pip install VidToScr".
   # Manually:
+  You can also get files here: https://pypi.org/project/VidToScr/
     # Versions 1.0.0 and 1.1.1
       * run "python setup.py sdist bdist_wheel"
     # Versions from 1.1.2
