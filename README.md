@@ -1,5 +1,5 @@
 # VID-to-SCR-Lib
-Python library for converting video files (currently .mp4) to .scr screensavers.
+Python library for converting video files (currently .mp4) to .scr screensavers and back from .scr to video (currently .mp4).
 # Original Author 
 Development was started on March 28th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
