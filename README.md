@@ -23,8 +23,11 @@ To use scripts with the library, make sure you have ffmpeg installed. If not, in
     <br>* ScrToMp4Converter
 
 # Future Additions
-* add more formats (.webp, .mov, .avi, .wmv, .mkv)
+* add more format conversion (.webp, .mov, .avi, .wmv, .mkv)
+* add .scr to formats conversion
 * Simply update for later Python versions
 * (maybe) compile for older versions
+  <br># Done
+  * added .mov to .scr conversion
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/MP4-to-SCR-lib/total)
