@@ -15,6 +15,13 @@ To use scripts with the library, make sure you have ffmpeg installed. If not, in
       * run "python setup.py sdist bdist_wheel"
     # Versions from 1.1.2
       * run "python -m build"
+# Modules
+  ***To Scr***
+    <br>* MovToScrConverter
+    <br>* Mp4ToScrConverter
+  ***From Scr***
+    <br>* ScrToMp4Converter
+
 # Future Additions
 * add more formats (.webp, .mov, .avi, .wmv, .mkv)
 * Simply update for later Python versions
