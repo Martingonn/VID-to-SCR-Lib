@@ -4,7 +4,7 @@ Python library for converting video files (currently .mp4) to .scr screensavers 
 Development was started on March 28th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
-If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
+If you have any problems or suggestions, contact me: martingonn-dev@outlook.com
 # Requirements
 To use scripts with the library, make sure you have ffmpeg installed. If not, install it from here: https://ffmpeg.org/download.html
 # How to install
